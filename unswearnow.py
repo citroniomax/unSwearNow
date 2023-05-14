@@ -2,7 +2,7 @@ from pynput import keyboard
 k = keyboard
 
 keylog = ''
-file = open('sw.txt', 'r', encoding="utf-8").readlines()
+file = open('filter.txt', 'r', encoding="utf-8").readlines()
 
 for i in range(len(file)):      # convert the txt file into a list of list
     if file[i][0:1:] != '#':
