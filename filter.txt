@@ -15,7 +15,7 @@ stfu=please
 # french
 nique=remercie
 niqué=remercié
-pute=chat
+pute=gentille
 merde=caca
 encule=aime
 enculé=prouté
