@@ -1,7 +1,6 @@
 # english
 fuck=bless
 fck=bless
-fucking=loving
 bitch=nice being
 shit=cake
 ass=homie
