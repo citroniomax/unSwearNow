@@ -35,7 +35,7 @@ def down(key):     # main function
                 k.Controller().release(keyboard.Key.backspace)
             k.Controller().type(file[i][1])
 
-    print(keylog)
+    # print(keylog)
 
 with k.Listener(on_press=down) as listener:     # keylogger
     listener.join()
