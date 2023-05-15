@@ -15,8 +15,8 @@ The filter operation is nearly the same as unSwear, just a few changes :
 - The bad words/good words separator is a `=`.
 - You can sequence the filter by language.  
   
-If it is likely that you speak more than one language in chat, you can sort replacements by language (it makes it cleaner).   
-Make a new line in the filter, add a `#` before the new language you wanna file (ex: `# english`), and then write every replacement you want to have !
+If you speak more than one language in chat, you can sort filter's replacements by language (it makes it cleaner).   
+Make a new line in the file, add a `#` before the new language you wanna censor (ex: `# english`), and then write every replacement you want to have ! (one replacement per line)
 
 ## Requirements 
 
