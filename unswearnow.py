@@ -11,7 +11,7 @@ for i in range(len(file)):      # convert the txt file into a list of list
         fx = fx.rstrip('\n')
 
         for j in range(len(fx)):
-            if fx[j:j+1:] == '=':
+            if fx[j:j+1:] == ':':
                 cache.append(fx[:j:])
                 cache.append(fx[j+1::])
                 file[i] = cache
