@@ -7,6 +7,14 @@ After testing unSwear, i found it unfortunate that you should press space bar ea
   
 Sometimes you write an insult at the end of your message, and with unSwear, it doesnt replace the toxic word. With this version, no matter how/where you write, it will replace the cuss word.
 
+## Filter
+
+The filter operation is nearly the same as unSwear, just a few changes :  
+- The file is a `.txt` file and not a `.csv`.
+- The bad words/good words separator is a `=`.
+- You can sequence the filter file by language.  
+  
+If it is likely that you speak more than one language in chat, make a new line, add a `#` before the new language you wanna file (ex: `# english`), and then write every replacement you want to have !
 
 ## Requirements 
 
