@@ -1,4 +1,7 @@
 # english
+smartass=smart guy
+smartfuck=smart guy
+smartfck=smart guy
 fuck=bless
 fck=bless
 fucking=loving
@@ -8,9 +11,6 @@ ass=cake
 suck=hold
 bastard=guy
 dumb=smart
-smartass=smart guy
-smartfuck=smart guy
-smartfck=smart guy
 cunt=human being
 idiot=genius
 dick=snail
