@@ -19,7 +19,7 @@ If you speak more than one language in chat, you can sort filter's replacements 
 Make a new line in the file, add a `#` before the new language you wanna censor (`ex: # english`), and then write every replacement you want to have ! (one replacement per line)
   
 I recommend putting insult composed with multiple cuss words (`ex: dumb*ss -> dumb / *ss`) at the top of the list, so they can be exchange without causing any problem.   
-For the exemple of `dumb*ss`, because this script instantly changes toxic words, the `dumb` part will be replaced by `smart`. So, to replace someone that wants to type `dumb*ss`, the line in the filter will be `smart*ss=smart guy`. 
+For the exemple of `dumb*ss`, because this script instantly changes toxic words, the `dumb` part will be replaced by `smart`. So, to replace someone that wants to type `dumb*ss`, the line in the filter will be `smart*ss=smart guy` for example. 
 
 ## Requirements 
 
