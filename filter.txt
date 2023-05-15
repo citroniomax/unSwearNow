@@ -1,12 +1,16 @@
 # english
 fuck=bless
 fck=bless
+fucking=loving
 bitch=nice being
 shit=cake
-ass=homie
+ass=cake
 suck=hold
 bastard=guy
 dumb=smart
+smartass=smart guy
+smartfuck=smart guy
+smartfck=smart guy
 cunt=human being
 idiot=genius
 dick=snail
