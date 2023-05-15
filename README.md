@@ -12,7 +12,7 @@ Sometimes in chat, you write an insult at the end of your message, and with unSw
 The filter operation is nearly the same as unSwear, just a few changes :  
 
 - The file is a `.txt` file and not a `.csv`.
-- The bad words/good words separator is a `=`.
+- The bad words/good words separator is a `:`.
 - You can sequence the filter by language.  
   
 If you speak more than one language in chat, you can sort filter's replacements by language (it makes it cleaner).   
