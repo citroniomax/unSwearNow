@@ -1,33 +1,71 @@
 # english
-smartass:smart guy
-smartfuck:smart guy
-smartfck:smart guy
-fuck:bless
-fck:bless
-fucking:loving
-bitch:nice being
-shit:cake
-ass:cake
-suck:hold
-bastard:guy
-dumb:smart
-cunt:human being
-idiot:genius
-dick:snail
-stfu:please
+smartass/smart guy
+smartfuck/smart guy
+smartfck/smart guy
+motherfuck/buddy
+son of a bitch/dear friend
+jackass/dear friend
+bullshit/baloney
+dipshit/silly goose
+fuck/bless
+fck/bless
+bitch/nice being
+shit/cake
+ass/cake
+suck/hold
+bastard/guy
+dumb/smart
+idiot/genius
+dick/snail
+stfu/please
+damn/darn
+hell/heck
+piss/tinkle
+crap/darn
+bloody/jolly
+screw/fix
+moron/scholar
+douchebag/sweetheart
+wanker/goofball
+slut/sweetheart
+prick/sweetheart
+whore/sweetheart
+cunt/dear friend
+twat/dear friend
+bollocks/nonsense
+arsehole/buddy
+cock/rooster
+pecker/woodpecker
+twerp/buddy
+dolt/smarty-pants
+knucklehead/sweetheart
+scumbag/friend
+jerk/goofball
+nimrod/genius
+schmuck/sweetheart
+bonehead/smarty-pants
+douchecanoe/goofball
+numbnuts/genius
+dingus/sweetheart
+knobhead/smarty-pants
+bugger/dear friend
+frickin/darn
+feck/darn
+dagnabbit/darn
+balderdash/nonsense
 # french
-nique:remercie
-niqué:remercié
-pute:gentille
-merde:caca
-encule:aime
-enculé:prouté
-tg:chut
-gueul:bouche
-con:intelligent
-debile:intelligent
-bete:intelligent
-bête:intelligent
-fdp:mec
-bite:saucisse
-baise:respecte
+nique/remercie
+niqué/remercié
+pute/gentille
+merde/caca
+encule/aime
+enculé/prouté
+tg/chut
+gueul/bouche
+con/intelligent
+debile/intelligent
+bete/intelligent
+bête/intelligent
+fdp/mec
+bite/saucisse
+baise/respecte
