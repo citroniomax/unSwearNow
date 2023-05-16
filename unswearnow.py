@@ -33,18 +33,18 @@ def down(key):     # main function
     
     for i in range(len(file)):       # word changer
         fx = file[i][0]
-        if fx in keylog:
+        if fx in keylog.lower():
             if keylog[-len(fx)-1:-len(fx):] == ' ':
                 for _ in range(len(file[i][0])):
-                    k.Controller().press(keyboard.Key.backspace)
-                    k.Controller().release(keyboard.Key.backspace)
+                    k.Controller().press(k.Key.backspace)
+                    k.Controller().release(k.Key.backspace)
                 k.Controller().type(file[i][1])
             else:
                 for _ in range(len(fx)):        # avoid bug
                     insult += '-'
                 keylog = keylog[:-len(fx):] + insult
 
-    # print(keylog)
+    print(keylog)
 
 with k.Listener(on_press=down) as listener:     # keylogger
     listener.join()
