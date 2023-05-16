@@ -18,8 +18,8 @@ The filter operation is nearly the same as unSwear, just a few changes :
 If you speak more than one language in chat, you can sort filter's replacements by language (it makes it cleaner).   
 Make a new line in the file, add a `#` before the new language you wanna censor (`ex: # english`), and then write every replacement you want to have ! (one replacement per line)
   
-I recommend putting insult composed with multiple cuss words (`ex: dumb*ss -> dumb / *ss`) at the top of the list, so they can be exchange without causing any problem.   
-For the exemple of `dumb*ss`, because this script instantly changes toxic words, the `dumb` part will be replaced by `smart`. So, to replace someone that wants to type `dumb*ss`, the line in the filter will be `smart*ss=smart guy` for example. 
+I recommend putting insult composed with multiple words (`ex: bullsh*t -> bull / sh*t`) at the top of the list, so they can be exchange without causing any problem.   
+For the exemple of `dumb*ss`, because it is composed with two cuss words, the `dumb` part will be replaced by `smart`. So, to replace someone that wants to type `dumb*ss`, the line in the filter will be `smart*ss=smart guy` for example. 
 
 ## Requirements 
 
